@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/* ODGOVORI NA PITANJA
+/* ODGOVORI NA PITANJA - Нисам сигуран да је тачно. Последни одговор је сигурно тачан.
  * 1.   b
  * 2.   b
  * 3.   b
